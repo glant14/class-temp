@@ -1,0 +1,7 @@
+C:\Users\1346511\source\repos\GenerateParamid\GenerateParamid\bin\Debug\GenerateParamid.exe.config
+C:\Users\1346511\source\repos\GenerateParamid\GenerateParamid\bin\Debug\GenerateParamid.exe
+C:\Users\1346511\source\repos\GenerateParamid\GenerateParamid\bin\Debug\GenerateParamid.pdb
+C:\Users\1346511\source\repos\GenerateParamid\GenerateParamid\obj\Debug\GenerateParamid.csprojAssemblyReference.cache
+C:\Users\1346511\source\repos\GenerateParamid\GenerateParamid\obj\Debug\GenerateParamid.csproj.CoreCompileInputs.cache
+C:\Users\1346511\source\repos\GenerateParamid\GenerateParamid\obj\Debug\GenerateParamid.exe
+C:\Users\1346511\source\repos\GenerateParamid\GenerateParamid\obj\Debug\GenerateParamid.pdb
